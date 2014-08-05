@@ -1,0 +1,236 @@
+Haveing 29 Records!
+
+
+1-------------------------------------------------------------------------------------------------
+Hostid		13941220845
+Netip		199.82.171.27
+Online		2014-03-07 0:08:04
+HostInfo		mozilla/5.0 (windows nt 6.1; wow64) applewebkit/537.36 (khtml, like gecko) chrome/33.0.1750.146 safari/537.36
+Header		Url:http://www.magazine3000.com/include/data/file/News.htm?emailname=wjstanek@fedex.com
+		Referer:
+		Cookies:
+ScanInfo		Shockwave Flash 12.0.0,Java Version is:1.7.0_45,Widevine Content Decryption Module(Name:widevinecdmadapter.dll),Shockwave Flash(Name:pepflashplayer.dll),Chrome Remote Desktop Viewer(Name:internal-remoting-viewer),Native Client(Name:ppGoogleNaClPluginChrome.dll),Chrome PDF Viewer(Name:pdf.dll),Microsoft? Windows Media Player Firefox Plugin(Name:np-mswmp.dll),ActiveTouch General Plugin Container(Name:npatgpc.dll),Microsoft Office 2010(Name:NPAUTHZ.DLL),Microsoft Office 2010(Name:NPSPWRAP.DLL),Google Update(Name:npGoogleUpdate3.dll),Java Deployment Toolkit 7.0.450.18(Name:npDeployJava1.dll),Java(TM) Platform SE 7 U45(Name:npjp2.dll),iTunes Application Detector(Name:npitunes.dll),Web Meeting Plugin(Name:npWebMeetingPlugin2.dll),Citrix Online Web Deployment Plugin 1.0.0.104(Name:npappdetector.dll),Silverlight Plug-In(Name:npctrl.dll)
+-------------------------------------------------------------------------------------------------
+
+
+2-------------------------------------------------------------------------------------------------
+Hostid		13941220162
+Netip		199.82.171.27
+Online		2014-03-07 0:06:56
+HostInfo		mozilla/5.0 (windows nt 6.1; wow64) applewebkit/537.36 (khtml, like gecko) chrome/33.0.1750.146 safari/537.36
+Header		Url:http://www.magazine3000.com/include/data/file/News.htm?emailname=wjstanek@fedex.com
+		Referer:
+		Cookies:
+ScanInfo		Shockwave Flash 12.0.0,Java Version is:1.7.0_45,Widevine Content Decryption Module(Name:widevinecdmadapter.dll),Shockwave Flash(Name:pepflashplayer.dll),Chrome Remote Desktop Viewer(Name:internal-remoting-viewer),Native Client(Name:ppGoogleNaClPluginChrome.dll),Chrome PDF Viewer(Name:pdf.dll),Microsoft? Windows Media Player Firefox Plugin(Name:np-mswmp.dll),ActiveTouch General Plugin Container(Name:npatgpc.dll),Microsoft Office 2010(Name:NPAUTHZ.DLL),Microsoft Office 2010(Name:NPSPWRAP.DLL),Google Update(Name:npGoogleUpdate3.dll),Java Deployment Toolkit 7.0.450.18(Name:npDeployJava1.dll),Java(TM) Platform SE 7 U45(Name:npjp2.dll),iTunes Application Detector(Name:npitunes.dll),Web Meeting Plugin(Name:npWebMeetingPlugin2.dll),Citrix Online Web Deployment Plugin 1.0.0.104(Name:npappdetector.dll),Silverlight Plug-In(Name:npctrl.dll)
+-------------------------------------------------------------------------------------------------
+
+
+3-------------------------------------------------------------------------------------------------
+Hostid		13941205634
+Netip		10.15.184.88
+Online		2014-03-06 23:42:43
+HostInfo		mozilla/4.0 (compatible; msie 8.0; windows nt 6.1; trident/4.0; slcc2; .net clr 2.0.50727; .net clr 3.5.30729; .net clr 3.0.30729; media center pc 6.0; infopath.3; .net4.0c)
+Header		Url:http://www.magazine3000.com/include/data/file/News.htm?emailname=debbie.hensley@fedex.com
+		Referer:
+		Cookies:
+ScanInfo		Shockwave Flash  12.0.0.70,Office 2010,Adobe Reader
+-------------------------------------------------------------------------------------------------
+
+
+4-------------------------------------------------------------------------------------------------
+Hostid		13941204341
+Netip		10.1.44.176
+Online		2014-03-06 23:40:34
+HostInfo		mozilla/4.0 (compatible; msie 8.0; windows nt 6.1; wow64; trident/4.0; slcc2; .net clr 2.0.50727; .net clr 3.5.30729; .net clr 3.0.30729; media center pc 6.0; infopath.3; .net4.0c; .net4.0e)
+Header		Url:http://www.magazine3000.com/include/data/file/News.htm?emailname=jack.schuller@fedex.com
+		Referer:
+		Cookies:
+ScanInfo		Shockwave Flash  11.5.502.149,Office 2010,Adobe Reader
+-------------------------------------------------------------------------------------------------
+
+
+5-------------------------------------------------------------------------------------------------
+Hostid		13941185871
+Netip		161.135.170.18
+Online		2014-03-06 23:09:47
+HostInfo		mozilla/5.0 (windows nt 6.1; wow64; trident/7.0; rv:11.0) like gecko
+Header		Url:http://www.magazine3000.com/include/data/file/News.htm?emailname=jbcurtis@fedex.com
+		Referer:
+		Cookies:
+ScanInfo		Shockwave Flash 12.0.0,No Java or Disable or user uninstall it(if plugins have java)!,Shockwave Flash(Name:Flash32_12_0_0_70.ocx),Silverlight Plug-In(Name:npctrl.dll)
+-------------------------------------------------------------------------------------------------
+
+
+6-------------------------------------------------------------------------------------------------
+Hostid		13941126411
+Netip		50.84.44.245
+Online		2014-03-06 21:30:41
+HostInfo		mozilla/5.0 (linux; android 4.4.2; nexus 7 build/kot49h) applewebkit/537.36 (khtml, like gecko) chrome/33.0.1750.136 safari/537.36
+Header		Url:http://www.magazine3000.com/include/data/file/News.htm?emailname=markus.stommen@fedex.com
+		Referer:
+		Cookies:
+ScanInfo		No Flash!,No Java or Disable or user uninstall it(if plugins have java)!
+-------------------------------------------------------------------------------------------------
+
+
+7-------------------------------------------------------------------------------------------------
+Hostid		13941123139
+Netip		76.185.178.200
+Online		2014-03-06 21:25:13
+HostInfo		mozilla/5.0 (linux; android 4.3; samsung-sgh-i317 build/jss15j) applewebkit/537.36 (khtml, like gecko) chrome/33.0.1750.136 mobile safari/537.36
+Header		Url:http://www.magazine3000.com/include/data/file/News.htm?emailname=jrd1991@yahoo.com
+		Referer:
+		Cookies:
+ScanInfo		No Flash!,No Java or Disable or user uninstall it(if plugins have java)!
+-------------------------------------------------------------------------------------------------
+
+
+8-------------------------------------------------------------------------------------------------
+Hostid		13941105792
+Netip		10.1.44.176
+Online		2014-03-06 20:56:19
+HostInfo		mozilla/4.0 (compatible; msie 8.0; windows nt 6.1; wow64; trident/4.0; slcc2; .net clr 2.0.50727; .net clr 3.5.30729; .net clr 3.0.30729; media center pc 6.0; infopath.3; .net4.0c; .net4.0e)
+Header		Url:http://www.magazine3000.com/include/data/file/News.htm?emailname=jack.schuller@fedex.com
+		Referer:
+		Cookies:
+ScanInfo		Shockwave Flash  11.5.502.149,Office 2010,Adobe Reader
+-------------------------------------------------------------------------------------------------
+
+
+9-------------------------------------------------------------------------------------------------
+Hostid		13941101094
+Netip		172.20.199.63
+Online		2014-03-06 20:48:29
+HostInfo		mozilla/4.0 (compatible; msie 8.0; windows nt 6.1; wow64; trident/4.0; gtb7.5; slcc2; .net clr 2.0.50727; .net clr 3.5.30729; .net clr 3.0.30729; .net4.0c; .net4.0e; infopath.3)
+Header		Url:http://www.magazine3000.com/include/data/file/News.htm?emailname=john.suich@fedex.com
+		Referer:
+		Cookies:
+ScanInfo		Shockwave Flash  12.0.0.70,Office 2010,Adobe Reader
+-------------------------------------------------------------------------------------------------
+
+
+10-------------------------------------------------------------------------------------------------
+Hostid		13941100928
+Netip		172.20.199.63
+Online		2014-03-06 20:48:12
+HostInfo		mozilla/4.0 (compatible; msie 8.0; windows nt 6.1; wow64; trident/4.0; gtb7.5; slcc2; .net clr 2.0.50727; .net clr 3.5.30729; .net clr 3.0.30729; .net4.0c; .net4.0e; infopath.3)
+Header		Url:http://www.magazine3000.com/include/data/file/News.htm?emailname=john.suich@fedex.com
+		Referer:
+		Cookies:
+ScanInfo		Shockwave Flash  12.0.0.70,Office 2010,Adobe Reader
+-------------------------------------------------------------------------------------------------
+
+
+11-------------------------------------------------------------------------------------------------
+Hostid		13941049621
+Netip		5.178.65.229
+Online		2014-03-06 19:22:42
+HostInfo		mozilla/5.0 (windows nt 5.1; rv:24.0) gecko/20100101 firefox/24.0
+Header		Url:http://www.magazine3000.com/include/data/file/News.htm?emailname={%emailname%}
+		Referer:
+		Cookies:PHPSESSID=9c60d2486fd5b8c51fdd27a22203d569
+ScanInfo		No Flash!,No Java or Disable or user uninstall it(if plugins have java)!,Adobe Acrobat(Name:nppdf32.dll{Ver:11.0.0.379}),Adobe Acrobat(Name:nppdf32.dll{Ver:11.0.0.379}),NPTXSSO Dynamic Link Library(Name:npSSOAxCtrlForPTLogin.dll{Ver:1.0.1.6}),Microsoft? DRM(Name:npdrmv2.dll{Ver:9.0.0.4503}),Windows Media Player Plug-in Dynamic Link Library(Name:npdsplay.dll{Ver:3.0.2.629}),Microsoft? DRM(Name:npwmsdrm.dll{Ver:9.0.0.4503})
+-------------------------------------------------------------------------------------------------
+
+
+12-------------------------------------------------------------------------------------------------
+Hostid		13940952966
+Netip		5.178.65.229
+Online		2014-03-06 16:41:36
+HostInfo		mozilla/5.0 (windows nt 5.1; rv:24.0) gecko/20100101 firefox/24.0
+Header		Url:http://www.magazine3000.com/include/data/file/News.htm
+		Referer:
+		Cookies:PHPSESSID=9c60d2486fd5b8c51fdd27a22203d569
+ScanInfo		No Flash!,No Java or Disable or user uninstall it(if plugins have java)!,Adobe Acrobat(Name:nppdf32.dll{Ver:11.0.0.379}),Adobe Acrobat(Name:nppdf32.dll{Ver:11.0.0.379}),NPTXSSO Dynamic Link Library(Name:npSSOAxCtrlForPTLogin.dll{Ver:1.0.1.6}),Microsoft? DRM(Name:npdrmv2.dll{Ver:9.0.0.4503}),Windows Media Player Plug-in Dynamic Link Library(Name:npdsplay.dll{Ver:3.0.2.629}),Microsoft? DRM(Name:npwmsdrm.dll{Ver:9.0.0.4503})
+-------------------------------------------------------------------------------------------------
+
+
+13-------------------------------------------------------------------------------------------------
+Hostid		13940531391
+Netip		172.56.28.28
+Online		2014-03-06 4:58:59
+HostInfo		mozilla/5.0 (linux; android 4.4.2; nexus 5 build/kot49h) applewebkit/537.36 (khtml, like gecko) chrome/33.0.1750.136 mobile safari/537.36
+Header		Url:http://www.magazine3000.com/include/dialog/gif/linkedin.htm?emailname=ccssmoorehead@gmail.com
+		Referer:
+		Cookies:
+ScanInfo		No Flash!,No Java or Disable or user uninstall it(if plugins have java)!
+-------------------------------------------------------------------------------------------------
+
+
+14-------------------------------------------------------------------------------------------------
+Hostid		13939346046
+Netip		72.66.47.124
+Online		2014-03-04 20:03:24
+HostInfo		mozilla/5.0 (windows nt 5.1; rv:25.0) gecko/20100101 firefox/25.0
+Header		Url:http://magazine3000.com/include/dialog/gif/linkedin.htm
+		Referer:
+		Cookies:popunder=yes; popundr=yes; setover18=1
+ScanInfo		No Flash!,Java Version is:1.7.0_21,Java(TM) Platform SE 7 U21(Name:npjp2.dll{Ver:10.21.2.11}),Java Deployment Toolkit 7.0.210.11(Name:npDeployJava1.dll{Ver:10.21.2.11}),Adobe Acrobat(Name:nppdf32.dll{Ver:11.0.2.0}),Adobe Acrobat(Name:nppdf32.dll{Ver:11.0.2.0}),Microsoft? DRM(Name:npdrmv2.dll{Ver:9.0.0.3250}),Windows Media Player Plug-in Dynamic Link Library(Name:npdsplay.dll{Ver:3.0.2.628}),Microsoft? DRM(Name:npwmsdrm.dll{Ver:9.0.0.3250})
+-------------------------------------------------------------------------------------------------
+
+
+15-------------------------------------------------------------------------------------------------
+Hostid		13939019458
+Netip		108.56.223.162
+Online		2014-03-04 10:59:05
+HostInfo		mozilla/5.0 (windows nt 6.1; wow64; trident/7.0; rv:11.0) like gecko
+Header		Url:http://www.magazine3000.com/include/dialog/gif/linkedin.htm?emailname=eaglekeen@aol.com
+		Referer:
+		Cookies:
+ScanInfo		Shockwave Flash 11.9.900,No Java or Disable or user uninstall it(if plugins have java)!,Shockwave Flash(Name:Flash32_11_9_900_152.ocx)
+-------------------------------------------------------------------------------------------------
+
+
+16-------------------------------------------------------------------------------------------------
+Hostid		13938993287
+Netip		69.172.215.53
+Online		2014-03-04 10:15:28
+HostInfo		mozilla/5.0 (windows nt 5.1; rv:27.0) gecko/20100101 firefox/27.0
+Header		Url:http://www.magazine3000.com/include/dialog/gif/linkedin.htm
+		Referer:
+		Cookies:
+ScanInfo		No Flash!,No Java or Disable or user uninstall it(if plugins have java)!,China Online Banking Assistant(Name:npcoba32.dll{Ver:1.0.0.1}),Alipay webmod control(Name:npalidcp.dll{Ver:1.0.0.1}),Alipay Security Control 3(Name:npAliSecCtrl.dll{Ver:1.0.18.0}),npalicdo plugin(Name:npalicdo.dll{Ver:1.0.0.4}),Alipay security control(Name:npaliedit.dll{Ver:1.3.0.2}),Microsoft? DRM(Name:npdrmv2.dll{Ver:9.0.0.4503}),Windows Media Player Plug-in Dynamic Link Library(Name:npdsplay.dll{Ver:3.0.2.629}),Microsoft? DRM(Name:npwmsdrm.dll{Ver:9.0.0.4503})
+-------------------------------------------------------------------------------------------------
+
+
+17-------------------------------------------------------------------------------------------------
+Hostid		13938869036
+Netip		68.98.133.20
+Online		2014-03-04 6:48:23
+HostInfo		mozilla/5.0 (macintosh; intel mac os x 10_7_5) applewebkit/537.74.9 (khtml, like gecko) version/6.1.2 safari/537.74.9
+Header		Url:http://www.magazine3000.com/include/dialog/gif/linkedin.htm?emailname=tjlincoln@cox.net
+		Referer:
+		Cookies:
+ScanInfo		Shockwave Flash 12.0.0,Java Version is:1.5.0,Facebook Video Calling Plugin (Name:FacebookVideoCalling.bundle),Unity Player(Name:Unity Web Player.plugin),Adobe Acrobat NPAPI Plug-in  Version 11.0.06(Name:AdobePDFViewerNPAPI.plugin),Shockwave Flash(Name:Flash Player.plugin),QuickTime Plug-in 7.7.1(Name:QuickTime Plugin.plugin),SharePoint Browser Plug-in(Name:SharePointBrowserPlugin.plugin),WebKit built-in PDF(Name:),WebKit built-in PDF(Name:)
+-------------------------------------------------------------------------------------------------
+
+
+18-------------------------------------------------------------------------------------------------
+Hostid		13938806311
+Netip		76.111.88.68
+Online		2014-03-04 5:03:51
+HostInfo		mozilla/5.0 (macintosh; intel mac os x 10.6; rv:27.0) gecko/20100101 firefox/27.0
+Header		Url:http://www.magazine3000.com/include/dialog/gif/linkedin.htm?emailname=doodym@comcast.net
+		Referer:
+		Cookies:
+ScanInfo		Shockwave Flash 12.0.0,Java Version is:1.6.0_65,Shockwave Flash(Name:Flash Player.plugin{Ver:12.0.0.70}),SharePoint Browser Plug-in(Name:SharePointBrowserPlugin.plugin{Ver:14.3.9}),Java Applet Plug-in(Name:JavaAppletPlugin.plugin{Ver:13.9.8}),QuickTime Plug-in 7.6.6(Name:QuickTime Plugin.plugin{Ver:7.6.6}),iPhotoPhotocast(Name:iPhotoPhotocast.plugin{Ver:7.0})
+-------------------------------------------------------------------------------------------------
+
+
+19-------------------------------------------------------------------------------------------------
+Hostid		13938571111
+Netip		98.169.10.14
+Online		2014-03-03 22:31:51
+HostInfo		mozilla/5.0 (windows nt 6.1; wow64; trident/7.0; rv:11.0) like gecko
+Header		Url:http://www.magazine3000.com/include/dialog/gif/linkedin.htm?emailname=chrisearl@cox.net
+		Referer:
+		Cookies:
+ScanInfo		Shockwave Flash 12.0.0,No Java or Disable or user uninstall it(if plugins have java)!,Shockwave Flash(Name:Flash32_12_0_0_70.ocx)
+-------------------------------------------------------------------------------------------------
+
+
+20-------------------------------------------------------------------------------------------------
+Hostid		13938556819
+Netip		24.126.49.235
+Online		2014-03-03 22:08:01
+HostInfo		mozilla/

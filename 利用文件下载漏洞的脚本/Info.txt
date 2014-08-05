@@ -1,0 +1,13 @@
+DOCUMENT_ROOT=/opt/fedex/www/secure
+PATH=/opt/fedex/web/CA/webagent/
+
+HTTP_X_CLIENT_IP=207.226.136.147
+HTTP_X_FORWARDED_FOR=207.226.136.147, 125.56.218.55
+SERVER_ADDR=199.81.218.175
+REMOTE_ADDR=165.254.246.34
+
+search sac.fedex.com
+
+nameserver 199.81.128.35
+
+nameserver 199.81.128.6

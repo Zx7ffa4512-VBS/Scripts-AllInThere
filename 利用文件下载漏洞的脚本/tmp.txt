@@ -1,0 +1,4 @@
+/opt/fedex/www/secure/robots.txt
+/opt/fedex/www/robots.txt
+/opt/fedex/web/CA/webagent/robots.txt
+/opt/fedex/web/CA/webagent/www/robots.txt
