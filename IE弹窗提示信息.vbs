@@ -1,20 +1,16 @@
 '----------------------------------------------------------
-' CODE BY: EAGLE
-' Email    : eagle846@163.com
-' QQ    : 369029696
+' å‡½æ•°å ï¼š IEmsg
+' åŠŸ    èƒ½ ï¼š åœ¨å±å¹•å³ä¸‹è§’å‡èµ·ä¸€ä¸ªç½‘é¡µï¼Œå¯ä»¥ç”¨äºŽæç¤ºä¿¡æ¯
+' ç‰¹    ç‚¹ ï¼š å¯ä»¥å°†ç½‘é¡µåœ¨è‡ªå®šä¹‰æ—¶é—´åŽè‡ªåŠ¨å…³é—­
 '
-' º¯ÊýÃû £º IEmsg
-' ¹¦    ÄÜ £º ÔÚÆÁÄ»ÓÒÏÂ½ÇÉýÆðÒ»¸öÍøÒ³£¬¿ÉÒÔÓÃÓÚÌáÊ¾ÐÅÏ¢
-' ÌØ    µã £º ¿ÉÒÔ½«ÍøÒ³ÔÚ×Ô¶¨ÒåÊ±¼äºó×Ô¶¯¹Ø±Õ
+' å‚    æ•° ï¼š IEmsg(title,msg,time)
+'    title -     æç¤ºä¿¡æ¯çš„æ ‡é¢˜
+'    msg -     æç¤ºä¿¡æ¯çš„å†…å®¹ï¼Œæ¢è¡Œç¬¦ä¸º"<br>"
+'    time -     è®¾å®šç½‘é¡µå…³é—­çš„æ—¶é—´ï¼Œä»¥ç§’ä¸ºå•ä½
 '
-' ²Î    Êý £º IEmsg(title,msg,time)
-'    title -     ÌáÊ¾ÐÅÏ¢µÄ±êÌâ
-'    msg -     ÌáÊ¾ÐÅÏ¢µÄÄÚÈÝ£¬»»ÐÐ·ûÎª"<br>"
-'    time -     Éè¶¨ÍøÒ³¹Ø±ÕµÄÊ±¼ä£¬ÒÔÃëÎªµ¥Î»
-'
-' Àý    ×Ó £º Call IEmsg("±êÌâ-VBS","ÄÚÈÝ-hello word",10)
+' ä¾‹    å­ ï¼š Call IEmsg("æ ‡é¢˜-VBS","å†…å®¹-hello word",10)
 '----------------------------------------------------------
-Call IEmsg("ÕâÀïÊÇ±êÌâ","ÕâÀïÊÇÄÚÈÝ",3)
+Call IEmsg("è¿™é‡Œæ˜¯æ ‡é¢˜","è¿™é‡Œæ˜¯å†…å®¹",3)
 Function IEmsg(title,msg,time)
        On Error Resume Next
 
